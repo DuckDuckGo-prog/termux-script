@@ -1,6 +1,6 @@
 Arjienx Custom DNSTT Termux Script
 ```
-wget --no-check-certificate -O install https://github.com/Ysilven/termux-script/raw/main/install && chmod +x install && ./install
+pkg install -y wget && wget --no-check-certificate -O install https://github.com/Ysilven/termux-script/raw/main/install && chmod +x install && ./install
 ```
 
 
