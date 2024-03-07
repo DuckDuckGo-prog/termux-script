@@ -7,7 +7,7 @@ rm -rf install
 apt-get update
 apt-get install -y dnsutils nano
 
-wget ../usr/bin/menu https://github.com/Ysilven/termux-script/raw/main/menu && chmod +x ../usr/bin/menu
+wget ../usr/bin/menu https://raw.githubusercontent.com/Ysilven/termux-script/main/menu && chmod +x ../usr/bin/menu
 
 echo "Installation Completed."
 echo "Arjienx DNSTT Script v0.1.2"
