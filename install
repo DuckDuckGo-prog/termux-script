@@ -12,5 +12,5 @@ wget --no-check-certificate -O ../usr/bin/menu https://raw.githubusercontent.com
 echo "Installation Completed."
 echo "Arjienx DNSTT Script v0.1.2"
 echo
-echo "Arjien-PHC"
+echo "Arjienx-PHC"
 echo "type 'menu' to run the dnstt termux script"
