@@ -13,4 +13,5 @@ echo "Installation Completed."
 echo "Arjienx DNSTT Script v0.1.2"
 echo
 echo "Arjienx-PHC"
-echo "type 'menu' to run the dnstt termux script"
+echo "Enter is the key to back qucikly and start query testing instantly."
+echo "type 'menu' and enter to run the dnstt termux script"
