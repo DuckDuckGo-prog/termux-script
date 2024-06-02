@@ -11,7 +11,7 @@ wget --no-check-certificate -O ../usr/bin/menu https://raw.githubusercontent.com
 
 echo "Installation Completed."
 echo
-echo "Arjienx DNSTT Script v0.1.4.1"
+echo "Arjienx DNSTT Script v0.1.4.2"
 echo "https://phcorner.net/members/arjienx.1773652/"
 echo
 echo "Arjienx-PHC"
